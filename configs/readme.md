@@ -1,0 +1,1 @@
+pip install fashionstar-uart-sdk == 1.3.8
